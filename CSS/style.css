@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(214, 225, 239);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+}
+
+
+.white-card{
+    background-color: white;
+    height:450px;
+    width: 300px;
+    padding: 15px;
+    font-family: sans-serif;
+    border-radius: 20px;
+    box-sizing: border-box;
+}
+
+
+.card-text  h2{
+    font-weight: 800;
+    color:  hsl(218, 44%, 22%);
+    font-size: 18px;
+    text-align: center;
+}
+
+.card-text p{
+    font-size: 14px;
+    color: hsl(220, 15%, 55%);;
+    text-align: center;
+    padding-top: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+}
+
+
+
+.blue-card img{
+    border-radius: 14px;
+    width: 100%;
+}
+
